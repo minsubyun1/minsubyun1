@@ -5,6 +5,7 @@
 <li>![trophy](https://github-profile-trophy.vercel.app/?username=minsubyun1)</li>
 <li>![minsubyun1's github stats](https://github-readme-stats.vercel.app/api?username=minsubyun1&show_icons=true)</li>
 <li>[![minsubyun1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minsubyun1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minsubyun1)</li>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minsubyun1&repo=github-readme-stats)](https://github.com/minsubyun1/github-readme-stats)
 <!--
 **minsubyun1/minsubyun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
