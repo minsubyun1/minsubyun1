@@ -1,5 +1,5 @@
-👋 Hi I'm @minsubyun. 
-🔭 I'm interested in react. 
+<li>👋 Hi I'm @minsubyun.</li> 
+<li>🔭 I'm interested in react.</li> 
 🌱 I'm currently learning react. 
 👯 I look forward to becoming an expert in that field.
 <!--
