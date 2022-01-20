@@ -1,7 +1,7 @@
 <li>👋 Hi I'm @minsubyun.</li> 
 <li>🔭 I'm interested in react.</li> 
-🌱 I'm currently learning react. 
-👯 I look forward to becoming an expert in that field.
+<li>🌱 I'm currently learning react.</li> 
+<li>👯 I look forward to becoming an expert in that field.</li>
 <!--
 **minsubyun1/minsubyun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
