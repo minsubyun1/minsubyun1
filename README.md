@@ -3,7 +3,7 @@
 <li>🌱 I'm currently learning React and JS.<img src='https://user-images.githubusercontent.com/75060858/150245930-cb0f28f7-55a4-4364-ae43-4980c1d139f4.png'></img> </li> 
 <li>💻 I look forward to becoming an expert in that field.</li>
 <li>![minsubyun1's github stats](https://github-readme-stats.vercel.app/api?username=minsubyun1&show_icons=true)</li>
-[![minsubyun1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minsubyun1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minsubyun1)
+<li>[![minsubyun1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minsubyun1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minsubyun1)</li>
 <!--
 **minsubyun1/minsubyun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
