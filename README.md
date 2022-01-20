@@ -3,7 +3,6 @@
 <li>🌱 I'm currently learning React and JS.<img src='https://user-images.githubusercontent.com/75060858/150245930-cb0f28f7-55a4-4364-ae43-4980c1d139f4.png'></img> </li> 
 <li>💻 I look forward to becoming an expert in that field.</li>
 
-<img src="https://img.shields.io/badge/react-#61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
 
 ![minsubyun1's github stats](https://github-readme-stats.vercel.app/api?username=minsubyun1&show_icons=true)
 
