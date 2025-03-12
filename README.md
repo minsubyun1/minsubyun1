@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MINSUB%20YUN's%20Github)
+
 <div display="flex">
 
 
@@ -10,9 +11,9 @@
 </div>
 
 
-<div align = "center">
-# ⚙ Skill (스킬)
 
+# ⚙ Skill (스킬)
+<div align = "center">
 
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -22,8 +23,10 @@
 
 </div>
 
-<div align = "center">
+
 # Trying to learn ... 📌
+<div align = "center">
+
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 </div>
