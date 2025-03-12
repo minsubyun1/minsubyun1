@@ -1,12 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MINSUB%20YUN's%20Github)
-<p>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsubyun1)](https://solved.ac/minsubyun1/)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsubyun1)](https://solved.ac/minsubyun1/)
+<div>
+  
 
   [![minsubyun1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minsubyun1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minsubyun1)
-</p>
+</div>
+
 
 
 # ⚙ Skill (스킬)
+
+<div aligh = "center"></div>
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
