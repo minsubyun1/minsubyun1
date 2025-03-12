@@ -1,4 +1,6 @@
-# MINSUB YUN 🦊
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MINSUB%YUN's%Github)
+
+# ⚙ Skill (스킬)
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -8,6 +10,12 @@
 # Trying to learn ... 📌
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+
+# 📄 Certificate
+<li>정보처리기사 📆 2024.06.18 </li>
+<li>컴퓨터활용능력 1급 📆 2024.04.26 </li>
+<li>ADSP 📆 2024.03.22 </li>
+<li>SQLD 📆 2021.12.17 </li>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsubyun1)](https://solved.ac/minsubyun1/)
