@@ -1,6 +1,6 @@
-<li>👋 Hi I'm @Minsub.</li> 
+# Hi I'm MINSUB YUN 🦊
 
-
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 ![minsubyun1's github stats](https://github-readme-stats.vercel.app/api?username=minsubyun1&show_icons=true)
 
