@@ -2,6 +2,13 @@
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
+
+<li>Trying to learn . . . ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white) & ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)  </li>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsubyun1)](https://solved.ac/minsubyun1/)
+
 
 ![minsubyun1's github stats](https://github-readme-stats.vercel.app/api?username=minsubyun1&show_icons=true)
 
