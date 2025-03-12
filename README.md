@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MINSUB%20YUN's%20Github)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsubyun1)](https://solved.ac/minsubyun1/)
+
+[![minsubyun1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minsubyun1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minsubyun1)
+
 # ⚙ Skill (스킬)
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -17,10 +21,6 @@
 <li>ADSP 📆 2024.03.22 </li>
 <li>SQLD 📆 2021.12.17 </li>
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsubyun1)](https://solved.ac/minsubyun1/)
-
-[![minsubyun1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minsubyun1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minsubyun1)
 
 <!--
 **minsubyun1/minsubyun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
