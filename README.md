@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MINSUB%YUN's%Github)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 # ⚙ Skill (스킬)
 
@@ -19,10 +19,6 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsubyun1)](https://solved.ac/minsubyun1/)
-
-
-![minsubyun1's github stats](https://github-readme-stats.vercel.app/api?username=minsubyun1&show_icons=true)
-
 
 [![minsubyun1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minsubyun1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minsubyun1)
 
