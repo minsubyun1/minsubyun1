@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MINSUB%20YUN's%20Github)
 
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minsubyun1&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/minsubyun1"
+  width="600"
+  height="300"
+/>
+</a>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsubyun1)](https://solved.ac/minsubyun1/)
 
