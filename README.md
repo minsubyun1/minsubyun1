@@ -18,7 +18,7 @@
 
 
 # ⚙ Skill (스킬)
-[![My Skills](https://skillicons.dev/icons?i=aws,java,javascript,mysql,spring,postman&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,spring,mysql,java,javascript&perline=3)](https://skillicons.dev)
 
 
 
