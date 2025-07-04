@@ -17,7 +17,7 @@
 
 
 
-# ⚙ Skill (스킬)
+# ⚙ Tech Stacks
 [![My Skills](https://skillicons.dev/icons?i=aws,spring,mysql,java,javascript&perline=3)](https://skillicons.dev)
 
 
