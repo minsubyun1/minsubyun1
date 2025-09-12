@@ -27,10 +27,10 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,java,javascript,mysql,spring,postman&perline=3)](https://skillicons.dev)
 
 <h2>📄 Certificate</h2>
-<li>정보처리기사 📆 2024.06.18 </li>
-<li>컴퓨터활용능력 1급 📆 2024.04.26 </li>
-<li>ADSP 📆 2024.03.22 </li>
-<li>SQLD 📆 2021.12.17 </li>
+<p>정보처리기사 📆 2024.06.18</p>
+<p>컴퓨터활용능력 1급 📆 2024.04.26</p>
+<p>ADSP 📆 2024.03.22</p>
+<p>SQLD 📆 2021.12.17</p>
 
 <br />
 
